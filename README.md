@@ -1,2 +1,5 @@
 # Calculator
-A JS project
+A Webd Project made using Java Script,CSS and HTML.
+
+A preview
+ 
